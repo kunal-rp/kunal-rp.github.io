@@ -1,0 +1,26 @@
+[
+{
+	"title": "SceneStamp",
+	"personal":true,
+	"icon" : "video.png",
+	"info" : "Take the repetitiveness out of editing compilation/highlight videos; a tool to track athletes/characters/moments in videos, then easily create compilation videos without any editing software. Sunsetted due to technological restrictions"
+},
+{
+	"title":"Google Payments",
+	"current":true,
+	"icon" : "bank.png",
+	"info":"Our services are used by billions of users and help make the online wallet seamless. Worked all over the stack; consumer facing from new Forms of Payments for countries, buisness facing from developing on AMP, legally facing from complying with country financial regulation "
+},
+{
+	"title":"Vierve",
+	"personal":true,
+	"icon" : "car.png",
+	"info":"Think Uber for college parking. Helped students get a ride to their car in exchange for their parking spot. Unfortunately sunsetted after recieving a cease-and-desist, welp"
+},
+{
+	"title":"Jet Propulsion Lab - NASA",
+	"type":"Internship",
+	"icon" : "galaxy.png",
+	"info":"Worked on the Deep Space Network, visualizing dashboards and metrics for instruments. Including the Curiosity and Voyager !"
+}
+]
